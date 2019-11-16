@@ -1,6 +1,4 @@
-# Golang GraphQL experiment
-
-🧪
+# 🧪 Golang GraphQL experiment
 
 ```shell script
 go get
