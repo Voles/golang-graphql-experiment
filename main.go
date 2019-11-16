@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/handler"
 	"log"
 	"net/http"
+
+	"github.com/graphql-go/graphql"
+	"github.com/graphql-go/handler"
 )
 
 var objectType = graphql.NewObject(
